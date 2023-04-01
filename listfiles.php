@@ -1,5 +1,5 @@
 <?php
-$dir = '/usr/local/www/apache24/data';
+$dir = 'var/www/html';
 $files = scandir($dir);
 
 print_r($files);
