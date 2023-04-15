@@ -239,8 +239,8 @@ function main(){
 	 } 
 	 
 	 //img.src="sheet.png"
-	 img.src="<?php echo $imagename; ?>";
-	 img2.src="sheet2.png"
+	 img2.src="<?php echo $imagename; ?>";
+	 img.src="sheet.png"
 	 
 	 
 	 
